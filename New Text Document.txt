@@ -1,0 +1,18 @@
+Jetpack Compose: get ready for 1.0 in July!
+For the last few years, we’ve been hard at work modernizing the Android development 
+experience, listening to your feedback to keep the openness–a hallmark of Android, 
+but becoming more opinionated about the right way to do things. You can see this 
+throughout,from Android Studio, a performant IDE that can keep up with you, 
+to Kotlin, a programming language that enables you to do more with 
+less code, to Jetpack libraries that solve the hardest problems on 
+mobile with backward compatibility.
+
+The next step in this offering is Jetpack Compose - 
+our modern UI toolkit to easily build beautiful apps 
+for all Android devices. We announced Compose here at Google I/O two years ago and since then have been building it in the open, listening to your feedback to make sure we got it right. With the Compose Beta earlier this year, developers around the world have created some truly beautiful, innovative experiences in half the time, and the response to the #AndroidDevChallenge blew our socks off!
+
+With the forthcoming update of Material You (which you can read more about here), 
+we’ll be adding new Material components as well as further support for building 
+for large screens, making it fast and easy to build a gorgeous UI. We’re pressure 
+testing the final bits in Compose and will release 1.0 Stable in July—so get ready!
+
